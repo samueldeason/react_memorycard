@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.bannersection{
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 200px;
+  width:100%;
+  background-color: black;
+  color: lightskyblue
+}
+.bannersection h1{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.bannersection p{
+  text-align: center;
+}
